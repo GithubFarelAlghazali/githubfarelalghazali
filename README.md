@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+
 ## Hello World 🌏 I am Farel Alghazali
 
 <!--
@@ -80,4 +81,5 @@ Here are some ideas to get you started:
 ### GitHub Stats
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=githubfarelalghazali&show_icons=true&theme=vue-dark)
->>>>>>> e55db9013df6fba8dc9c3b585804717bbbd5198c
+
+![snake animation](https://github.com/githubfarelalghazali/githubfarelalghazali/blob/output/github-contribution-grid-snake2.svg)
