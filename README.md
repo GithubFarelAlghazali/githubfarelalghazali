@@ -1,4 +1,7 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> b0b754740601ef9754c26d5e5125bc0752280e13
 
 ## Hello World 🌏 I am Farel Alghazali
 
@@ -43,6 +46,7 @@ Here are some ideas to get you started:
   <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
   <img alt="github-snake" src="github-snake.svg" />
 </picture>
+<<<<<<< HEAD
 =======
 ## Hello World 🌏 I am Farel Alghazali
 
@@ -83,3 +87,5 @@ Here are some ideas to get you started:
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=githubfarelalghazali&show_icons=true&theme=vue-dark)
 
 ![snake animation](https://github.com/githubfarelalghazali/githubfarelalghazali/blob/output/github-contribution-grid-snake2.svg)
+=======
+>>>>>>> b0b754740601ef9754c26d5e5125bc0752280e13
