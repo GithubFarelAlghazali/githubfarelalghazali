@@ -36,4 +36,4 @@ Here are some ideas to get you started:
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=githubfarelalghazali&show_icons=true&theme=vue-dark)
 
-![snake animation](https://github.com/githubfarelalghazali/githubfarelalghazali/blob/output/github-contribution-grid-snake2.svg)
+![Snake animation](https://github.com/GithubFarelAlghazali/GithubFarelAlghazali/blob/output/github-contribution-grid-snake.svg)
