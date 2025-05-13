@@ -1,4 +1,6 @@
-## Hello World🌏
+## Hello World!🌏 I am Farel Alghazali
+
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOWxiY3Y0aXN2cTJwaXBmNTJtdDZsbW9qOXo2dnhnZzhtMjRnZWRyNSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/HzPtbOKyBoBFsK4hyc/giphy.gif" width="150"/>
 
 <!--
 **GithubFarelAlghazali/githubfarelalghazali** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,8 +16,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-![Welcome banner](banner--.png)
 
 -    🌱 I’m currently learning [React.js](https://react.dev) & [Vue](https://vuejs.org)
 -    🤔 I’m looking for help with Web Development
@@ -35,5 +35,3 @@ Here are some ideas to get you started:
 ### GitHub Stats
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=githubfarelalghazali&show_icons=true&theme=vue-dark)
-
-<!-- ![Snake animation](https://github.com/GithubFarelAlghazali/GithubFarelAlghazali/blob/output/github-contribution-grid-snake.svg) -->
