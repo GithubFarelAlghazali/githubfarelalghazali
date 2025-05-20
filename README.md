@@ -1,4 +1,4 @@
-## Hello World!🌏 I am Farel Alghazali
+# Hello World!🌏 I am Farel Alghazali
 
 <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOWxiY3Y0aXN2cTJwaXBmNTJtdDZsbW9qOXo2dnhnZzhtMjRnZWRyNSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/HzPtbOKyBoBFsK4hyc/giphy.gif" width="150"/>
 
@@ -34,7 +34,3 @@ Here are some ideas to get you started:
 
 [<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />](https://www.instagram.com/farelghazalii/) [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/farelghazalii) [<img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />](https://www.youtube.com/@farelghazaliyt)
 
-
-### GitHub Stats
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=githubfarelalghazali&show_icons=true&theme=vue-dark)
